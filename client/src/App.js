@@ -4,4 +4,3 @@ import MainContainer from "./Components/MainContainer"
 const App = () => <MainContainer />
 
 export default App;
-
